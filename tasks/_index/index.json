@@ -8,9 +8,11 @@
     "position": 1758204789680,
     "tags": [],
     "created_at": "2025-09-18T14:13:09.679Z",
-    "updated_at": "2025-09-18T14:13:09.679Z",
-    "focus_exclude": false,
-    "file_path": "tasks/2025/09/task_1758204789679_n1jb2j.md"
+    "updated_at": "2025-09-18T14:13:19.734Z",
+    "focus_exclude": true,
+    "file_path": "tasks/2025/09/task_1758204789679_n1jb2j.md",
+    "due_date": "",
+    "recurring": "daily"
   },
   {
     "id": "task_1758115807755_a1wr4p",
