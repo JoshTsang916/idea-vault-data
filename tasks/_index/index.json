@@ -3,16 +3,17 @@
     "id": "task_1758115807755_a1wr4p",
     "project_id": "project_1758034079337_fsocau",
     "title": "肌力訓練",
-    "status": "done",
+    "status": "todo",
     "priority": 3,
     "position": 1758115807755,
     "tags": [],
     "created_at": "2025-09-17T13:30:07.755Z",
-    "updated_at": "2025-09-18T05:31:07.544Z",
+    "updated_at": "2025-09-18T05:36:58.641Z",
     "file_path": "tasks/2025/09/task_1758115807755_a1wr4p.md",
     "recurring": "daily",
     "completed_at": "2025-09-17T13:31:24.296Z",
-    "focus_exclude": true
+    "focus_exclude": true,
+    "due_date": ""
   },
   {
     "id": "task_1758115789184_jz9oj7",
