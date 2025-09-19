@@ -1,5 +1,18 @@
 [
   {
+    "id": "task_1758280570666_ixwiqy",
+    "project_id": "project_1758172576925_z1t0hh",
+    "title": "數學教材迭代",
+    "status": "backlog",
+    "priority": 3,
+    "position": 1758280570666,
+    "tags": [],
+    "created_at": "2025-09-19T11:16:10.666Z",
+    "updated_at": "2025-09-19T11:16:10.666Z",
+    "focus_exclude": false,
+    "file_path": "tasks/2025/09/task_1758280570666_ixwiqy.md"
+  },
+  {
     "id": "task_1758204789679_n1jb2j",
     "project_id": "project_1758071019675_m6ec2d",
     "title": "VibeCoding實作",
