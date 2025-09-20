@@ -88,15 +88,17 @@
   {
     "id": "task_1758087008302_skpi4j",
     "project_id": "project_1758036096750_gcncrc",
-    "title": "深度閱讀",
+    "title": "閱讀與分析：整理書中觀點並建立筆記框架",
     "status": "todo",
     "priority": 3,
     "position": 1758087008302,
     "tags": [],
     "created_at": "2025-09-17T05:30:08.302Z",
-    "updated_at": "2025-09-17T05:30:08.302Z",
+    "updated_at": "2025-09-20T03:14:38.888Z",
     "recurring": "daily",
-    "file_path": "tasks/2025/09/task_1758087008302_skpi4j.md"
+    "file_path": "tasks/2025/09/task_1758087008302_skpi4j.md",
+    "due_date": "",
+    "focus_exclude": false
   },
   {
     "id": "task_1758086746197_q5k6nv",
