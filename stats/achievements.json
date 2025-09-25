@@ -2,47 +2,47 @@
   "counters": {
     "ideas_created": 5,
     "voice_recordings": 0,
-    "tasks_completed": 5,
-    "focus_sessions": 12,
-    "focus_total_minutes": 484,
+    "tasks_completed": 29,
+    "focus_sessions": 3,
+    "focus_total_minutes": 121,
     "daily_task_completions": {
       "task_1758280570666_ixwiqy": {
-        "count": 1,
+        "count": 3,
         "task_name": "數學教材迭代",
         "project": "project_1758172576925_z1t0hh"
       },
       "task_1758204789679_n1jb2j": {
-        "count": 1,
+        "count": 3,
         "task_name": "VibeCoding實作與優化",
         "project": "project_1758071019675_m6ec2d"
       },
       "task_1758115807755_a1wr4p": {
-        "count": 1,
+        "count": 3,
         "task_name": "肌力訓練",
         "project": "project_1758034079337_fsocau"
       },
       "task_1758115789184_jz9oj7": {
-        "count": 1,
+        "count": 3,
         "task_name": "運動8000步",
         "project": "project_1758034079337_fsocau"
       },
       "task_1758087008303_4nvv3h": {
-        "count": 1,
+        "count": 3,
         "task_name": "創意原點：用心智圖探索與連結新點子",
         "project": "project_1758036096750_gcncrc"
       },
       "task_1758087008303_kpxdik": {
-        "count": 1,
+        "count": 3,
         "task_name": "韌性寫作：透過日誌反思來整合並分享觀點",
         "project": "project_1758036096750_gcncrc"
       },
       "task_1758087008302_skpi4j": {
-        "count": 1,
+        "count": 3,
         "task_name": "閱讀與分析：整理書中觀點並建立筆記框架",
         "project": "project_1758036096750_gcncrc"
       },
       "task_1758086746197_q5k6nv": {
-        "count": 1,
+        "count": 3,
         "task_name": "AI 技術探索",
         "project": "project_1758036096750_gcncrc"
       }
