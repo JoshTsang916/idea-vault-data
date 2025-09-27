@@ -2,22 +2,22 @@
   "counters": {
     "ideas_created": 6,
     "voice_recordings": 0,
-    "tasks_completed": 11,
+    "tasks_completed": 22,
     "focus_sessions": 6,
-    "focus_total_minutes": 243.18333333333334,
+    "focus_total_minutes": 243,
     "daily_task_completions": {
       "task_1758204789679_n1jb2j": {
-        "count": 1,
+        "count": 6,
         "task_name": "VibeCoding實作與優化",
         "project": "project_1758071019675_m6ec2d"
       },
       "task_1758115807755_a1wr4p": {
-        "count": 1,
+        "count": 3,
         "task_name": "肌力訓練",
         "project": "project_1758034079337_fsocau"
       },
       "task_1758115789184_jz9oj7": {
-        "count": 2,
+        "count": 5,
         "task_name": "運動8000步",
         "project": "project_1758034079337_fsocau"
       },
@@ -27,18 +27,11 @@
         "project": "project_1758036096750_gcncrc"
       },
       "task_1758086746197_q5k6nv": {
-        "count": 1,
+        "count": 2,
         "task_name": "AI 技術探索",
         "project": "project_1758036096750_gcncrc"
       }
     }
   },
-  "achievements_unlocked": [
-    {
-      "id": "journal_streak_7",
-      "name": "自省的習慣",
-      "tier": "uncommon",
-      "unlocked_at": "2025-09-26T14:37:25.446Z"
-    }
-  ]
+  "achievements_unlocked": []
 }
