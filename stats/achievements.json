@@ -2,14 +2,14 @@
   "counters": {
     "ideas_created": 7,
     "voice_recordings": 0,
-    "tasks_completed": 30,
+    "tasks_completed": 31,
     "focus_sessions": 1,
     "focus_total_minutes": 44,
     "perfect_focus_days": 0,
     "one_time_tasks_completed": 0,
     "daily_task_completions": {
       "task_1758204789679_n1jb2j": {
-        "count": 6,
+        "count": 7,
         "task_name": "VibeCoding實作與優化",
         "project": "project_1758071019675_m6ec2d"
       },
