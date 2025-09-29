@@ -1,6 +1,6 @@
 {
   "counters": {
-    "ideas_created": 9,
+    "ideas_created": 10,
     "voice_recordings": 0,
     "tasks_completed": 31,
     "focus_sessions": 1,
@@ -40,5 +40,12 @@
       }
     }
   },
-  "achievements_unlocked": []
+  "achievements_unlocked": [
+    {
+      "id": "ideas_10",
+      "name": "思想的起點",
+      "tier": "common",
+      "unlocked_at": "2025-09-29T02:22:23.460Z"
+    }
+  ]
 }
