@@ -1,15 +1,15 @@
 {
   "counters": {
-    "ideas_created": 10,
+    "ideas_created": 11,
     "voice_recordings": 0,
-    "tasks_completed": 31,
-    "focus_sessions": 8,
-    "focus_total_minutes": 316,
+    "tasks_completed": 30,
+    "focus_sessions": 1,
+    "focus_total_minutes": 44,
     "perfect_focus_days": 0,
     "one_time_tasks_completed": 0,
     "daily_task_completions": {
       "task_1758204789679_n1jb2j": {
-        "count": 7,
+        "count": 6,
         "task_name": "VibeCoding實作與優化",
         "project": "project_1758071019675_m6ec2d"
       },
@@ -40,12 +40,5 @@
       }
     }
   },
-  "achievements_unlocked": [
-    {
-      "id": "ideas_10",
-      "name": "思想的起點",
-      "tier": "common",
-      "unlocked_at": "2025-09-29T02:22:23.460Z"
-    }
-  ]
+  "achievements_unlocked": []
 }
