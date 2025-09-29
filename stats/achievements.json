@@ -2,7 +2,7 @@
   "counters": {
     "ideas_created": 11,
     "voice_recordings": 0,
-    "tasks_completed": 30,
+    "tasks_completed": 31,
     "focus_sessions": 1,
     "focus_total_minutes": 44,
     "perfect_focus_days": 0,
@@ -14,7 +14,7 @@
         "project": "project_1758071019675_m6ec2d"
       },
       "task_1758115807755_a1wr4p": {
-        "count": 4,
+        "count": 5,
         "task_name": "肌力訓練",
         "project": "project_1758034079337_fsocau"
       },
@@ -40,5 +40,12 @@
       }
     }
   },
-  "achievements_unlocked": []
+  "achievements_unlocked": [
+    {
+      "id": "ideas_10",
+      "name": "思想的起點",
+      "tier": "common",
+      "unlocked_at": "2025-09-29T13:20:31.192Z"
+    }
+  ]
 }
