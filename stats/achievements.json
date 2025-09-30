@@ -1,7 +1,7 @@
 {
   "counters": {
-    "ideas_created": 13,
-    "voice_recordings": 2,
+    "ideas_created": 12,
+    "voice_recordings": 0,
     "tasks_completed": 30,
     "focus_sessions": 8,
     "focus_total_minutes": 315,
@@ -45,13 +45,7 @@
       "id": "ideas_10",
       "name": "思想的起點",
       "tier": "common",
-      "unlocked_at": "2025-09-29T14:55:43.683Z"
-    },
-    {
-      "id": "journal_streak_7",
-      "name": "自省的習慣",
-      "tier": "uncommon",
-      "unlocked_at": "2025-09-29T14:55:43.683Z"
+      "unlocked_at": "2025-09-30T01:23:35.342Z"
     }
   ]
 }
