@@ -1,12 +1,14 @@
 {
   "counters": {
-    "ideas_created": 12,
+    "ideas_created": 14,
     "voice_recordings": 0,
-    "tasks_completed": 30,
-    "focus_sessions": 12,
-    "focus_total_minutes": 482.8,
+    "tasks_completed": 32,
+    "focus_sessions": 11,
+    "focus_total_minutes": 455,
     "perfect_focus_days": 0,
     "one_time_tasks_completed": 0,
+    "max_journal_streak": 10,
+    "max_focus_streak": 8,
     "daily_task_completions": {
       "task_1758204789679_n1jb2j": {
         "count": 6,
@@ -23,6 +25,11 @@
         "task_name": "運動8000步",
         "project": "project_1758034079337_fsocau"
       },
+      "task_1758087008303_4nvv3h": {
+        "count": 1,
+        "task_name": "創意原點：用心智圖探索與連結新點子",
+        "project": "project_1758036096750_gcncrc"
+      },
       "task_1758087008303_kpxdik": {
         "count": 1,
         "task_name": "韌性寫作：透過日誌反思來整合並分享觀點",
@@ -38,16 +45,26 @@
         "task_name": "AI 技術探索",
         "project": "project_1758036096750_gcncrc"
       }
-    },
-    "max_focus_streak": 0,
-    "max_journal_streak": 0
+    }
   },
   "achievements_unlocked": [
     {
       "id": "ideas_10",
       "name": "思想的起點",
       "tier": "common",
-      "unlocked_at": "2025-09-30T01:23:35.342Z"
+      "unlocked_at": "2025-09-30T14:52:53.815Z"
+    },
+    {
+      "id": "journal_streak_7",
+      "name": "自省的習慣",
+      "tier": "uncommon",
+      "unlocked_at": "2025-09-30T14:52:53.815Z"
+    },
+    {
+      "id": "focus_streak_7",
+      "name": "專注修行者",
+      "tier": "uncommon",
+      "unlocked_at": "2025-09-30T14:52:53.815Z"
     }
   ]
 }
