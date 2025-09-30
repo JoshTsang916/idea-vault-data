@@ -3,8 +3,8 @@
     "ideas_created": 12,
     "voice_recordings": 0,
     "tasks_completed": 30,
-    "focus_sessions": 8,
-    "focus_total_minutes": 315,
+    "focus_sessions": 9,
+    "focus_total_minutes": 357,
     "perfect_focus_days": 0,
     "one_time_tasks_completed": 0,
     "daily_task_completions": {
@@ -38,7 +38,9 @@
         "task_name": "AI 技術探索",
         "project": "project_1758036096750_gcncrc"
       }
-    }
+    },
+    "max_focus_streak": 0,
+    "max_journal_streak": 0
   },
   "achievements_unlocked": [
     {
