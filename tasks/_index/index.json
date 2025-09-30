@@ -90,16 +90,16 @@
     "id": "task_1758087008303_4nvv3h",
     "project_id": "project_1758036096750_gcncrc",
     "title": "創意原點：用心智圖探索與連結新點子",
-    "status": "todo",
+    "status": "done",
     "priority": 3,
     "position": 1758087008303,
     "tags": [],
     "created_at": "2025-09-17T05:30:08.302Z",
-    "updated_at": "2025-09-20T03:35:30.764Z",
+    "updated_at": "2025-09-30T03:45:00.670Z",
     "recurring": "daily",
     "file_path": "tasks/2025/09/task_1758087008303_4nvv3h.md",
-    "due_date": "",
-    "focus_exclude": false
+    "focus_exclude": false,
+    "completed_at": "2025-09-30T03:45:00.670Z"
   },
   {
     "id": "task_1758087008303_kpxdik",
