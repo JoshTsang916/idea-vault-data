@@ -1,13 +1,13 @@
 {
   "counters": {
-    "ideas_created": 14,
+    "ideas_created": 15,
     "voice_recordings": 0,
     "tasks_completed": 32,
     "focus_sessions": 11,
     "focus_total_minutes": 455,
     "perfect_focus_days": 0,
     "one_time_tasks_completed": 0,
-    "max_journal_streak": 10,
+    "max_journal_streak": 11,
     "max_focus_streak": 8,
     "daily_task_completions": {
       "task_1758204789679_n1jb2j": {
@@ -52,19 +52,19 @@
       "id": "ideas_10",
       "name": "思想的起點",
       "tier": "common",
-      "unlocked_at": "2025-09-30T15:48:45.175Z"
+      "unlocked_at": "2025-10-01T03:55:12.407Z"
     },
     {
       "id": "journal_streak_7",
       "name": "自省的習慣",
       "tier": "uncommon",
-      "unlocked_at": "2025-09-30T15:48:45.175Z"
+      "unlocked_at": "2025-10-01T03:55:12.407Z"
     },
     {
       "id": "focus_streak_7",
       "name": "專注修行者",
       "tier": "uncommon",
-      "unlocked_at": "2025-09-30T15:48:45.175Z"
+      "unlocked_at": "2025-10-01T03:55:12.407Z"
     }
   ]
 }
